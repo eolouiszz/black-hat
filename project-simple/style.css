@@ -1,0 +1,58 @@
+body#main {
+    margin: 20px;
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-top: 30px;
+    background-image: url(https://w.wallhaven.cc/full/jx/wallhaven-jxq5p5.png);
+    color: white;
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+h1#titulo {
+    font-size: 50px;
+    color: white;
+}
+
+#sub-title {
+    font-size: 30px;
+    color: white;
+}
+
+#p {
+    font-size: 16px;
+    color: white;
+}
+
+#pe {
+    font-size: 20px;
+    color: white;
+    margin: 50px;
+    margin-top: -10px;
+}
+
+#div {
+width: 100%;
+  max-width: 500px;
+  margin: 50px auto;
+  padding: 20px;
+  background: rgba(61, 61, 61, 0.1); /* Transparent white background */
+  border-radius: 20px; /* Smooth rounded corners */
+  backdrop-filter: blur(10px); /* Apply the blur effect */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Soft shadow for depth */
+  border: 1px solid rgba(255, 255, 255, 0.3); /* Light border for definition */
+  color: white; /* Text color */
+  font-family: 'Arial', sans-serif; /* Elegant font */
+  text-align: center; /* Center text */
+}
+
+#div h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+#div p {
+    font-size: 1.1rem;
+    line-height: 1.5;
+  }
